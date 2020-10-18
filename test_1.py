@@ -1,5 +1,5 @@
 
-def print_message():
-  print("hello world")
+def print_message(message):
+  print(message)
   
-print_message()
+print_message("Mensaje generico")
